@@ -3,7 +3,7 @@
     {
         "id": 1,
       "category": "animal welfare1",
-      "title": "Cat Adoption Day",
+      "title": "Cat Adoption Day1",
       "description": "Find your new feline friend at this event.",
       "location": "Meow Town",
       "data": "January 28, 2022",
@@ -13,7 +13,7 @@
      {
         "id": 2,
       "category": "animal welfare2",
-      "title": "Cat Adoption Day",
+      "title": "Cat Adoption Day2",
       "description": "Find your new feline friend at this event.",
       "location": "Meow Town",
       "data": "January 28, 2022",
@@ -23,7 +23,7 @@
      {
         "id": 3,
       "category": "animal welfare3",
-      "title": "Cat Adoption Day",
+      "title": "Cat Adoption Day3",
       "description": "Find your new feline friend at this event.",
       "location": "Meow Town",
       "data": "January 28, 2022",
@@ -33,7 +33,7 @@
   {
         "id": 4,
       "category": "animal welfare4",
-      "title": "Cat Adoption Day",
+      "title": "Cat Adoption Day4",
       "description": "Find your new feline friend at this event.",
       "location": "Meow Town",
       "data": "January 28, 2022",
